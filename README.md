@@ -2,6 +2,6 @@
 <br>
 Library sql project
 <br>
-I have been solved some basic problems 
+I have been solved some basic problems of SQL
 <br>
 
